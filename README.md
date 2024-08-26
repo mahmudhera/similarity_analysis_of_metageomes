@@ -19,3 +19,11 @@ The data source is here: https://www.hmpdacc.org/hmp/HMASM/#data. We downloaded 
 
 DONE.
 
+## Preprocess the data
+
+1. For every tar.bz2 file we have to unzip
+1. We have to get to the unzipped directory
+1. We then have to concatenate the fastq files, and write the final file on which we will do subsequent analysis.
+
+## Obtain FracMinHash sketches
+
