@@ -21,3 +21,5 @@ for file_name in os.listdir(current_dir):
         # Compare the md5s
         if md5 != expected_md5:
             print(f'{file_name} is incorrect')
+        else:
+            print(f'{file_name} is correct')
