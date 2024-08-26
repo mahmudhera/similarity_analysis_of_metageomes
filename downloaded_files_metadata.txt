@@ -8,7 +8,6 @@ right_retroauricular_crease, SRS057083, SRS057083.tar.bz2
 right_retroauricular_crease, SRS019116, SRS019116.tar.bz2
 right_retroauricular_crease, SRS019081, SRS019081.tar.bz2
 right_retroauricular_crease, SRS018978, SRS018978.tar.bz2
-stool, SRS016517, SRS016517.tar.bz2
 stool, SRS022524, SRS022524.tar.bz2
 stool, SRS064645, SRS064645.tar.bz2
 stool, SRS016203, SRS016203.tar.bz2
@@ -44,7 +43,6 @@ vaginal_introitus, SRS062752, SRS062752.tar.bz2
 subgingival_plaque, SRS014107, SRS014107.tar.bz2
 subgingival_plaque, SRS014477, SRS014477.tar.bz2
 subgingival_plaque, SRS019129, SRS019129.tar.bz2
-subgingival_plaque, SRS015064, SRS015064.tar.bz2
 subgingival_plaque, SRS063215, SRS063215.tar.bz2
 left_retroauricular_crease, SRS024620, SRS024620.tar.bz2
 left_retroauricular_crease, SRS016944, SRS016944.tar.bz2

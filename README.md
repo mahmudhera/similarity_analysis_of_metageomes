@@ -15,3 +15,7 @@ The data source is here: https://www.hmpdacc.org/hmp/HMASM/#data. We downloaded 
 1. Group by body sites
 1. For each body site, get 5 smallest reads
 1. Download the data
+1. Check md5sum of the downloaded files to make sure download was done correctly.
+
+DONE.
+
