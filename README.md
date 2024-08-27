@@ -25,5 +25,7 @@ DONE.
 1. We have to get to the unzipped directory
 1. We then have to concatenate the fastq files, and write the final file on which we will do subsequent analysis.
 
+DONE.
+
 ## Obtain FracMinHash sketches
 
